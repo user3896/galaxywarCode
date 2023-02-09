@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 22.05.2022 09:56:30 : Starting C:/Users/Samsung/Desktop/unity motoru/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 9926,4544ms
+moved types parse time: 444ms
+candidates parse time : 5ms
+C# parse time         : 4153ms
+candidates check time : 189ms
+console write time    : 18ms
+
+[api-updater (non-obsolete-error-filter)] 22.05.2022 09:57:15 : Starting C:/Users/Samsung/Desktop/unity motoru/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 374,9825ms
+moved types parse time: 144ms
+candidates parse time : 3ms
+C# parse time         : 709ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22.05.2022 09:57:18 : Starting C:/Users/Samsung/Desktop/unity motoru/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 362,9979ms
+moved types parse time: 196ms
+candidates parse time : 3ms
+C# parse time         : 542ms
+candidates check time : 87ms
+console write time    : 1ms
+
